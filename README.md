@@ -46,4 +46,4 @@ Recommendations
 Targeted advertising can be an effective way to reach potential donors, especially if the ads are targeted to individuals who have shown an interest in your organization's mission or values. This can be done by using demographic information, such as location, to target your ads to people in areas where you have seen a high level of donations in the past. Additionally, targeting people who have shown an interest in comedy and drama can be a good strategy if your organization's mission or values align with these interests.
 It can also be a good idea to consider the frequency of donations when developing your fundraising strategy. While yearly donation frequency may be the most efficient method for your organization, it is worth considering whether other frequency options, such as monthly or quarterly donations, may be more appealing to certain donors. Additionally, It could be beneficial to offer the option for one-time donations as well.
 
-[SQL.Capstone.Project.docx](https://github.com/PaapaHemeng/Fundraising-Project/files/10406772/SQL.Capstone.Project.docx)
+
